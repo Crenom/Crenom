@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timofey
-- 👀 I’m interested in python, java, devops, docker, k8s
+- 👀 I’m interested in python, java, js, go, flutter, devops, docker, k8s
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
